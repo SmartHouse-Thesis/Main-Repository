@@ -1,0 +1,11 @@
+survey gồm các thông tin như: diện tích, số phòng, gói đề xuất,..
+mô tả gồm đặc điểm của nhà
+1 request 1 survey
+payment thêm 1 field description, đổi createAt thành PayDate
+bỏ bảng team
+thêm 1 field là manageID, (chứa mã ID của staff lead) 
+contract thêm 1 field ngày bắt đầu thi công (ContructionDate)
+package cần thêm image
+
+
+về nhà: dựng db, chuyển dữ liệu SQL, làm RP 3,4
