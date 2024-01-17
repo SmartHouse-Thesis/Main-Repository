@@ -1,0 +1,17 @@
+- muốn quản lý bảo trì/bảo hành, thiết bị k nên có field Quantity
+- cần phân loại điểm mạnh của từng teller theo thiết bị
+- Hợp đồng, bảo hành gắn với chính sách
+- ERD: phân loại các thiết bị chi tiết
+- cần kiểm soát lại 
+- bảo hành đang theo hợp đồng, làm r
+
+làm rõ các vấn đề sau:
+- cụ thể là bán sản phẩm hay gói?
+- bảo hành cho hợp đồng hay từng thiết bị?
+- bảo hành có nhân viên phụ trách không?
+- thông tin về sản phẩm cần làm rõ
+- làm rõ các chính sách (bảo hành theo gói, theo thiết bị)
+- quản lý tương thích sản phẩm
+- quản lý tiến độ lắp đặt
+- tập trung vào bán và lắp đặt thiết bị
+- cần phân loại điểm mạnh của từng teller theo thiết bị
