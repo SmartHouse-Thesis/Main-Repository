@@ -1,0 +1,4 @@
+- Up / tạo db lên sv ( đã có chỉnh sửa )
+- Tạo dữ liệu mẫu trong db
+- Tạo Figma ( thiết kế giao diện cho owner )
+- Tạo api cho owner
