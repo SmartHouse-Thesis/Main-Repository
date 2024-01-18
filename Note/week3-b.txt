@@ -1,0 +1,13 @@
+trong survey report cần thêm 1 dòng: hãng đề xuất
+trong bảng product có: ngày sản xuất, ngày hết hạn.
+request có 2 loại: khảo sát và thay mới (chỉ dành cho customer đã lắp đặt)
+
+2 luồng: bán lẻ + mua gói
+bán lẻ k cần khảo sát
+customer có 2 lựa chọn: tự lắp hoặc staff lắp (kèm theo giá lắp đặt)
+HOẶC
+trong policy cần có thêm 1 phần như: chỉ bán lẻ cho khách hàng đã có hợp đồng(đã mua).
+
+thêm bảng order + orderdetail -> done
+
+công việc tiếp theo: up lại db, tạo bộ dữ liệu mẫu, tạo figma (thiết kế giao diện cho owner), tạo API cho owner
