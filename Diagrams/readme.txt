@@ -13,3 +13,5 @@ Class Diagrams:
 
 Mainflow:
 
+Figma: https://www.figma.com/file/9WT3oWx3rQOjwxD5F1Ujwr/Onwer?type=design&node-id=0-1&mode=design&t=Lt9dTRmocoCemZ0t-0
+
