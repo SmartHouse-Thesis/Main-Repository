@@ -1,0 +1,20 @@
+gói sản phẩm 
+menu cần thêm quản lý gói
+đưa thanh search xuống ngang với button thêm
+sản phẩm cần thêm thời gian bảo hành
+nút xóa là disable
+đang chờ là đang đợi duyệt
+không cần pop-up gán nhân viên
+assign cần 1 combo box, chọn nhân viên là được (hệ thống tự list danh sách nv đang rảnh)
+từ dashboard, liệt kê danh sách yêu cầu, ds yêu cầu có xem chi tiết, rồi gán nhân viên thẳng luôn. 
+
+3 trạng thái hợp đồng: mới - đang thi công - đã hoàn thành
+chia trạng thái hợp đồng theo từng tab
+
+để màn hình hợp đồng ngang
+
+tab 1: hợp đồng mới
+tab 2: hợp đồng đã đặt cọc (gán nhân viên)
+tab 3: hợp đồng đang thi công
+tab 4: hợp đồng đã hoàn thành
+tab 5(nếu theo dõi hợp đồng kỹ hơn): hợp đồng đã bắt đầu
