@@ -1,0 +1,21 @@
+Teller: 
+	- thêm 1 nút 3 chấm để xem option ở phần yêu cầu khảo sát
+	- thay thành combo box hiển thị nhân viên rảnh (nút gán nhân viên)
+	- dời nút xác nhận xuống giữa popup
+	- 
+
+Hợp đồng cần có tên khách hàng (hệ thống tự get) hoặc bên A, thêm 1 field tên người tạo hoặc bên B (Teller)
+
+Thay label "thêm hợp đồng" thành "xác nhận"
+Có thêm nút "hủy bỏ"
+
+Có thêm màn thiết bị và danh sách gói sản phẩm
+
+
+Owner:
+	- Drop downlist hãng sản xuất
+	
+
+thêm chức năng in hợp đồng 
+
+dựng front-end và làm rp 3,4
