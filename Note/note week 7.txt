@@ -1,0 +1,21 @@
+UI tạo hợp đồng chia ra thành hợp đồng theo gói và hợp đồng lắp riêng 
+
+trong contract detail lưu đơn giá
+
+database thêm số ngày dự kiến hoàn thành
+
+chính sách ghi rõ lắp lẻ thì ngày hoàn thành có thể lâu hơn ngày dự kiến
+
+gói thì có ngày hoàn thành, còn lắp lẻ thì teller tự nhập ngày dự kiến hoàn thành 
+
+làm rõ hợp đồng theo survey của staff hay teller
+
+khách hàng có thể mua gói, mua lẻ hoặc vừa cả gói và lẻ \
+
+thiết bị có thêm field phí lắp đặt
+
+cần làm rõ:
+
+thi công trễ hẹn thì như thế nào?
+
+
