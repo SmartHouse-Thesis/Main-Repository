@@ -1,0 +1,21 @@
+Mainflow 
+
+customer xem gói sản phẩm -> 
+customer gửi yêu cầu khảo sát -> 
+teller nhận yêu cầu -> 
+gán work cho staff lead đang free -> 
+staff lead nhận survey request đi khảo sát -> 
+staff lead sau khi khảo sát thì viết survey report -> 
+teller nhận được survey report thì tư vấn gói với customer qua chat -> 
+teller tạo hợp đồng gồm gói thiết bị và thiết bị -> 
+customer xem được hợp đồng, có thể yêu cầu thay đổi thời gian lắp đặt hoặc hủy hợp đồng hoặc tiến hành đặt cọc(zalopay) -> 
+staff lead mang theo hợp đồng giấy, sau khi customer kí xác nhận thì upload/update trạng thái hợp đồng -> 
+staff tiến hành lắp đặt, sau khi hoàn thành thì staff lead update lại trạng thái hợp đồng, đưa ra biên bản nghiệm thu giấy (acceptance) -> 
+customer thanh toán phần phí còn lại ->
+customer xem nghiệm thu (kí vào biên bản nghiệm thu), staff tạo nghiệm thu và upload hình ảnh của biên bản nghiệm thu 
+
+2. Sub-flow
+flow staff: 
+1. staff sau khi được teller assign thì nhận yêu cầu -> 
+2. staff xem được hợp đồng thi công -> sau khi thi công thì cập nhật trạng thái của hợp đồng
+
