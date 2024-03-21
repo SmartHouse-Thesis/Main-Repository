@@ -1,0 +1,21 @@
+
+Đồ Án không có thiết kế bản vẽ: 
+	làm sao biết lắp đúng hay lắp sai: sau khi nhân viên thi công hoàn thàn, thông báo cho khách hàng kiểm tra và đồng ý
+						-> nhân viên đưa bản nghiệm thu cho khách hàng, khách hàng kí tên úp lên hệ thống  
+
+gói chi tiết chưa xét được thông tin cụ thể, chi tiết
+		-> chưa có giá cụ thể 
+		   
+đổi lable "nhận xét" thành "đánh giá" 
+
+Customer "gửi yêu cầu hủy hợp đồng" để teller duyệt hủy hoặc không ? 
+
+Thêm Menubar danh sách sản phẩm 
+
+có thêm sản phẩm mua lẻ nhưng khách hàng sẽ phải chat với teller để bán lẻ, còn nếu 
+
+nếu đã có hợp đồng, và khách hàng mua thêm sản phẩm lẻ, sẽ tính luôn phí phụ thu lắp đặt và thiết bị riêng luôn 
+
+nếu có thanh toán tiền mặt thì phải đưa tiền cho ai, ai là người cập nhật trạng thái  
+
+thêm filter xét duyệt theo ngày giảm dần trên hợp đồng app của staff 
