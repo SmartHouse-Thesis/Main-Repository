@@ -1,0 +1,25 @@
+Lable "Gửi Yêu Cầu Khảo sát" 
+	đổi tên thành ....... 
+
+hợp đồng (sắp lại nội dung cho chuẩn hợp đồng) 
+	Đại Diện bên A : teller
+	Đại diện bên B : cutomer 
+	 	
+
+trang chủ chỉ hiển thị gói, chưa có sản phẩm lẻ, hiển thị luôn sản phẩm lẻ nhưng chỉ để xem  	
+
+bỏ lá cờ ngôn 
+bỏ luôn chữ dashboard 
+ô tìm kiếm dưới dài ra (width)
+trạng thái "ẩn sản phẩm" thành "trạng thái" đổi lại thành ngừng kinh doanh/ kinh doanh (hoạt động/ không hoạt động) 
+
+Chọn "ngày lắp đặt" thành "số lượng ngày lắp đặt" ( Tấn Trung nói là theo tháng chứ không theo ngày) 
+
+người dùng sẽ click chọn các sản phẩm 
+
+"Ẩn nhân viên" thành " Trạng thái nhân viên" 
+
+đổi lable "Thêm giảm giá" thành "Thêm khuyến mãi" hoặc " Tạo Mới Khuyến Mãi" 
+
+menu "Hãng" thành " Hãng sản xuất"
+	Hãng thêm field quốc gia, địa chỉ cơ sở chính, hình ảnh 
