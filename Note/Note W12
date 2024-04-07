@@ -27,13 +27,13 @@ menu "Hãng" thành " Hãng sản xuất"
 
 trong yêu cầu khảo sát của teller, field chọn ngày sẽ auto match vào trước khi thay đổi ngày 
 
-bỏ ID đi - chỉ hiện ID của contract là được 
-
+bỏ hiển thị ID đi - chỉ hiện ID của contract 
+(FE) tạo enum cho 4 role, tương ứng với giá trị hiển thị tiếng việt 
 
 Công việc của nhóm: 
 	Duy :phân công chuẩn bị db cho các test case, hợp đồng mới, hợp đồng đang thi công 
 	Gói phải có 3 4 gói, Sản phẩm 15, ảnh cho các nhân viên 
 	
 
-ngày 13/4 chốt với thầy:  
+ngày 13/4 chốt với thầy  
 	
