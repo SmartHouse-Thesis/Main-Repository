@@ -1,0 +1,13 @@
+SURVEY REQUEST : đổi lable chọn ngày trước, khi gắn nhân viên ( sử dụng API GetstaffLeadForSurvey rồi chuyền ngày vào) 
+ dổi lable "Số ngày lắp đặt" là "Số ngày lắp đặt dự kiến"
+Mobile Staff : yêu cầu khảo sát cần xem detail và gửi báo cáo ở trong detail luôn, phần tab báo cáo hiện tại không sử dụng.
+
+Survey report
+- đổi Yêu cầu khảo sát thành mã khảo sát(id) của survey request
+- loại bỏ field ngày hẹn [thật ra Apointmentdate là ngày hẹn kí hợp đồng giữa teller và Customer - Staff sẽ cập nhật ]  
+
+Contract: 
+thêm nút 3 chấm phía cuối, chọn các hành động như : xem chi tiết, xem hình ảnh hợp đồng, hủy hợp đồng 
+
+survey request
+1 survey request sẽ bao gồm: mã khảo sát (ID) , tên khách hàng, số điện thoại, ngày hẹn khảo sát, địa chỉ, nội dung
