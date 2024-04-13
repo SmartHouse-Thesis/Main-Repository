@@ -1,0 +1,8 @@
+Note review 3:
+
+ - chọn ngày trước rồi mới show nhân viên rảnh
+ - Chức năng chưa có: Chat, 
+ - Cần thêm loại bỏ gói sản phẩm trong hợp đồng 
+ - Chưa xuất được pdf theo hợp đồng đưa vào
+ - Khuyến mãi cần áp dụng nhiều thời điểm (quan hệ gói và khuyến mãi là n-n)
+ Nhóm cần hoàn thiện thêm về luồng chính
