@@ -1,6 +1,7 @@
 SURVEY REQUEST : đổi lable chọn ngày trước, khi gắn nhân viên ( sử dụng API GetstaffLeadForSurvey rồi chuyền ngày vào) 
  dổi lable "Số ngày lắp đặt" là "Số ngày lắp đặt dự kiến"
 Mobile Staff : yêu cầu khảo sát cần xem detail và gửi báo cáo ở trong detail luôn, phần tab báo cáo hiện tại không sử dụng.
+ đổi các status thành tiếng việt 
 
 Survey report
 - đổi Yêu cầu khảo sát thành mã khảo sát(id) của survey request
