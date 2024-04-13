@@ -9,6 +9,9 @@ Survey report
 
 Contract: 
 thêm nút 3 chấm phía cuối, chọn các hành động như : xem chi tiết, xem hình ảnh hợp đồng, hủy hợp đồng 
+Ngày Tạo Hợp đồng đổi thành Ngày Dự Kiến Lắp Đặt, thêm field hiển thị tên khách hàng trong lúc tạo hợp đồng
+ chèn field thông tin khách hàng (bên A), thông tin người đại diện- Teller (bên B), 
+ - giảm đi field địa chỉ 
 
 survey request
 1 survey request sẽ bao gồm: mã khảo sát (ID) , tên khách hàng, số điện thoại, ngày hẹn khảo sát, địa chỉ, nội dung
