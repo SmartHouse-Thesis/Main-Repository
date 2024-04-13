@@ -11,3 +11,7 @@ thêm nút 3 chấm phía cuối, chọn các hành động như : xem chi tiế
 
 survey request
 1 survey request sẽ bao gồm: mã khảo sát (ID) , tên khách hàng, số điện thoại, ngày hẹn khảo sát, địa chỉ, nội dung
+
+có thể bắt đầu chat khi đã xem được báo cáo khảo sát. 
+
+thêm nút các xóa (icon thùng rác) field của gói (gói có thêm luôn quantity nhưng truyền api sẽ lặp lại ID) và sản phẩm trong lúc tạo hợp đồng
