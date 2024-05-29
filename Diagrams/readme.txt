@@ -5,7 +5,8 @@ Usecase Diagram: https://lucid.app/lucidchart/43357d44-f3b7-4ad9-8351-ef16f993bb
 
 ERD Diagrams: https://lucid.app/lucidchart/a2e28289-5bc4-4903-ae04-fb5770a2d5b4/edit?invitationId=inv_f8752744-9d7a-453c-bede-8b9ae5c1ee26&page=0_0
 ERD Diagrams fix: https://drive.google.com/file/d/1GaO70Isa-FEWJgqWQZFDhMt-KgXqnJE0/view?usp=sharing
-Sequence Diagrams:
+
+Sequence Diagrams: https://drive.google.com/file/d/1743CIJTVBEoFErdcUg1ctTvNhqTShi32/view?usp=sharing
 
 Overview Product:
 
