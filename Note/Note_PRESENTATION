@@ -1,0 +1,58 @@
+KÍNH THƯA QUÝ THẦY CÔ TRONG HỘI ĐỒNG, NHÓM CHÚNG EM ISHE XIN ĐƯỢC TRÌNH BÀY VỀ ĐỀ TÀI ĐỒ ÁN XÂY DỰNG VÀ LẮP ĐẶT THIẾT BỊ NHÀ THÔNG MINH CỦA CÔNG TY PHÁT ĐẠT, 
+NHÓM CHÚNG EM ĐƯỢC HOÀN THIỆN DƯỚI SỰ HƯỚNG DẪN CỦA THẦY LÊ TRÍ THÔNG.
+
+
+...
+NỘI DUNG TRÌNH BÀY CỦA CHÚNG EM GỒM 4 PHẦN : 
+	
+ĐẦU TIÊN EM XIN TRÌNH BÀY TỔNG QUAN VỀ ĐỀ TÀI :
+
+NGÀY NAY DƯỚI SỰ PHÁT TRIỂN CỦA KH CÔNG NGHỆ, NHU CẦU VỀ SỰ TIỆN CHẤT LƯỢNG CUỘC SỐNG CỦA CON NGƯỜI ĐƯỢC NÂNG LÊN ,BẰNG CÁCH SỰ DỤNG CÁC THIỆT BỊ THÔNG MINH TRONG NGÔI NHÀ CỦA MINH, ĐỂ ĐÁP ỨNG NHU CẦU ĐÓ, CTY PHÁT ĐẠT ĐÃ RA ĐỜI VÀ KINH DOANH CÁC SẢN PHẨM PHỤC VỤ CHO NHÀ THÔNG MINH VÀ LẮP ĐẶT CHO KHÁCH HÀNG CÓ NHU CẦU VỚI GIÁ CẠNH TRANH.
+EM XIN PHÉP VÍ DỤ VỀ NHÀ THÔNG MINH 
+VÍ DỤ NHÀ THÔNG MINH LÀ NGƯỜI DÙNG CÓ THỂ ĐIỀU KHIỂN MỌI THIẾT BỊ TRONG NHÀ THÔNG QUA SMARTHOME
+
+- TIẾP THEO EM XIN TRÌNH BÀY CÁC CÔNG NGHỆ MÀ NHÓM ĐÃ SỬ DỤNG 
+	PHẦN WEB APP CHÚNG EM SỬ DỤNG REACT VÀ REACT NATIVE CHO PHẦN MOBILE, PHẦN BE DÙNG .NET FRAMEWORK , PHẦN THANH TOÁN THÌ CHÚNG EM SỬ DỤNG BÊN THỨ 3 LÀ ZALOPAY, ĐỂ LƯU TRỮ HÌNH ẢNH THÔNG QUA FIREBASE, PHẦN DATABASE(CƠ SỞ DỮ LIỆU) EM SỬ DỤNG SQL SERVER  
+
+- PHẦN TIẾP THOE TRÌNH BÀY CÁC CHỨC NĂNG CHÍNH TRONG ĐỀ TÀI ( CHỈNH LẠI SLIDE PHẦN MAJOR ACTOR, 4 ACTOR NẰM DƯỚI, WEB APP MOBILE APP ĐỨNG XA RA) 
+	THÌ HỆ THỐNG EM CÓ 4 ACTOR : OWNER, TELLER , CUSTOMER, STAFF 
+		OWNER VÀ TELLER SỬ DỤNG WEB APP 
+		CUSTOMER STAFF DÙNG MOBILE APP 
+
+- VỚI OWNER ( ĐỔI MANAGE MANUFACTURER THÀNH QUẢN LÝ DOANH THU CỬA HÀNG ) 
+	EM XIN TRÌNH BÀY LUỒNG ĐẦU TIÊN CỦA OWNER LÀ TẠO THIẾT BỊ HOẶC GÓI THIẾT BỊ 
+		NHÓM CHÚNG EM XIN PHÉP ĐƯỢC DEMO  
+	em xin phép đăng nhập với vai trò owner, (đăng nhập vào hiện thị dashboard) ở màn hình dashboard owner hiện thị tháng nào của năm nào, 
+									OWNER CÓ THỂ XEM TỔNG DOANH THU CỦA THÁNG HIỆN HÀNH,   
+
+			lable (thống kê doanh thu của tháng ...) 
+			tổng tiền của từng giao dịch 	
+			bỏ field tổng tiền trung bình 
+ĐÂY LÀ MÀN HÌNH DASHBOARD CỦA OWNER,tại đây OWNER CÓ THỂ XEM TỔNG DOANH THU CỦA THÁNG HIỆN HÀNH
+BÊN TRÁI BIỂU ĐỒ THỐNG KÊ tổng tiền của từng giao dịch trong tháng, BÊN PHẢI là thông tin các giao dịch (nếu được là bỏ biểu đồ, lấy cột từng giao dịch số tiền ở dưới, bỏ field phương thức thanh toán, ngày tháng)  ngoài ra người dùng có thể filter những tháng khác 
+
+tiếp theo em xin trình bày tiếp về phần quản lý sản phẩm: 
+
+TIẾP THEO EM XIN TRÌNH BÀY CHỨC NĂNG CỦA CÁC ACTOR 
+	MỜI BẠN TÚ: 
+
+
+MÀN HÌNH TRANG CHỦ CỦA 
+
+
+LƯU Ý GÓI SẢN PHẨM : CÁC KHUYẾN MÃI ĐÃ DO OWNER TẠO TRƯỚC ĐÓ, CÁC SẢN PHẨM CHỈ HIỂN THỊ CỦA HÃNG 
+ 
+
+LƯU Ý DÙNG TỪ GÓI SẢN PHẨM VÀ GÓI THIẾT BỊ 
+
+ĐẦU TIÊN CUSTOMER ĐĂNG NHẬP VÀO MOBILE, XEM ĐƯỢC CÁC PACKAGE, ĐỂ BIẾT ĐƯỢC CÁC THÔNG TIN SẼ CHAT VỚI TELLER, 
+		CHỈNH LẠI SLIDE (màu xanh phải là noun, 
+
+mobile thiếu tiêu đề chọn ngày 
+
+nếu khách hàng có yêu cầu về gói này sẽ gửi yêu cầu khảo sát về hệ thống, và bất kỳ teller nào cũng có thể nhận được khảo sát 
+
+Sau đây em mời b Trung sẽ trình bày về các chức năng của Teller
+
+Sau khi gán nhân viên thì hệ thống sẽ gửi 1 noti cho staff để thực hiện khảo sát 
+
